@@ -1,0 +1,39 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+.input-text{
+  padding: 8px 6px;
+  margin: 12px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.input-date{
+  padding: 8px 6px;
+  margin: 12px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.add-button{
+  padding: 8px 40px;
+  background-color: rgb(5, 216, 5);
+  color: rgba(252, 246, 246, 0.975);
+  border: none;
+  margin: 12px;
+}
+
+.delectButton{
+  background-color: red;
+  padding: 8px 35px;
+  margin : 12px 0px;
+  
+}
+
+.todolist{
+  border: none;
+}
+
+.text{
+  display: inline;
+  width : 50px;
+}
